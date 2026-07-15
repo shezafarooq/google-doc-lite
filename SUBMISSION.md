@@ -10,7 +10,7 @@
 ## Links to complete before submission
 
 - Live product URL: https://google-doc-lite.onrender.com/
-- Walkthrough video: _add public Loom/YouTube URL_
+- Walkthrough video: https://www.loom.com/share/33df44f59436431fb5dc7c4dd82b19f4
 
 ## Status
 

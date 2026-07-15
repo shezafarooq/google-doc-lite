@@ -2,6 +2,8 @@
 
 A focused collaborative document editor built for the Ajaia AI-Native Full Stack Developer take-home. It supports rich-text editing, durable saves, `.txt`/`.md` imports, mock user switching, and owner-controlled sharing.
 
+**Live demo:** https://google-doc-lite.onrender.com/
+
 ## Run locally
 
 Requirements: Node.js 20+ and npm.
